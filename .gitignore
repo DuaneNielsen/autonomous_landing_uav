@@ -1,1 +1,6 @@
+*.swp
 */CMakeFiles
+*/CTestTestfile.cmake
+*/Makefile
+*/catkin_generated
+*/cmake_install.cmake
